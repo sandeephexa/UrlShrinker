@@ -1,2 +1,0 @@
-# UrlShrinker
-Url shortener app
